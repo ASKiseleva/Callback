@@ -20,7 +20,6 @@ class CallbackTest {
 
     @BeforeAll
     static void setUpAll() {
-
         WebDriverManager.chromedriver().setup();
     }
 
